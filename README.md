@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mart-Dan-Rossi
+- 🌱 I’m currently learning. Im studing web development in CoderHouse and im loocking to study JS too so i can choose my way betwin expanding my study on front-end or in back-end.
+- 📫 You can send me an e-mail to: martinrossi1993@gmail.com
